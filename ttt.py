@@ -15,7 +15,7 @@ print("Họ:",ho, "Tên:",ten)
 
  #Bài 4: Viết chương trình nhập vào chuỗi ký tự, đếm xem có bao nhiêu chữ cái viết hoa, bao nhiêu chữ cái viết thường
 
-a = input("Nhập vào chuỗi ký tự: ")
+a = input("Nhập vào chuỗi ký tự:")
 
 chu_viet_hoa = 0
 chu_viet_thuong= 0
