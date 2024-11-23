@@ -52,7 +52,8 @@ if a.count('.') == 1:
         print(f"'{a}' không phải số thập phân")
 #Số nguyên
 elif a.isdigit():
-    print(f"'{a}' là một số thập phân hợp lệ.")
+    print(f"'{a}' là một số thập phân hợp lệ")
 else:
-    print(f"'{a}' không phải là một số thập phân hợp lệ.")
+    print(f"'{a}' không phải là một số thập phân hợp lệ")
+    
     
