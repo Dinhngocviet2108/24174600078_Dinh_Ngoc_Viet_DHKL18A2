@@ -36,11 +36,11 @@ a = input("Nhập vào một chuỗi: ")
 
 # Kiểm tra chuỗi có phải là số âm không
 if a.startswith('-') and a[1:].isdigit():
-    print("Chuỗi là số âm.")
+    print("Chuỗi là số âm")
 else:
-    print("Chuỗi không phải là số âm.")
+    print("Chuỗi không phải là số âm")
 
-# Bài 7: Viết chương trình nhập vào chuỗi ký tự, kiểm tra xem chuỗi đó có phải số thập phân hay không
+# Bài 7:Viết chương trình nhập vào chuỗi ký tự, kiểm tra xem chuỗi đó có phải số thập phân hay không
 
 a = input("Nhập vào chuỗi ký tự: ")
 
